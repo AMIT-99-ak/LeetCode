@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AMIT-99-ak/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AMIT-99-ak/LeetCode/tree/master/0268-missing-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AMIT-99-ak/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AMIT-99-ak/LeetCode/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AMIT-99-ak/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
